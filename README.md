@@ -1,0 +1,1 @@
+This is a Clone of Twitter  made for Praticing and basic understanding of the Backend. This project may lack in some security features and should be taken care of them while working on the proffesional Projects.
